@@ -1,0 +1,23 @@
+{
+  "name": "sh-currency-converter",
+  "version": "1.0.0",
+  "description": "npm package of currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaktisingh647/sh-currency-converter.git"
+  },
+  "author": "shakti singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaktisingh647/sh-currency-converter/issues"
+  },
+  "homepage": "https://github.com/shaktisingh647/sh-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
